@@ -1,0 +1,10 @@
+The Stubb project.
+Aim - To make a program which helps the user do tasks quickly.
+The bot is expected to reply back. The bot is not and must not try to
+imitate human characters. At the end of the day it is a program with mostly hard coded answers.
+It should have the capablity to find "mood" based on text/speech analysis.
+
+This is an in house program. Public distribution is not allowed unless otherwise specified.
+People who have the source code are not allowed to share/modify without permission.
+
+The program may include a configuration file. Lists are expected to be read at run time. If found to be performance hog, alternate ways could be explored.
